@@ -1,0 +1,46 @@
+.container-item-cart {
+  width: 100%;
+  height: auto;
+  border-color: black;
+  display: flex;
+}
+
+.container-center {
+  margin-top: 50px;
+  display: flex;
+}
+
+.container-img {
+  width: 20%;
+  height: auto;
+}
+
+.container-title {
+  width: 100px;
+  height: auto;
+  margin-left: 10%;
+  font-size: 1.2rem;
+}
+
+.container-quantity {
+  width: 100px;
+  height: auto;
+  margin-left: 10%;
+  font-size: 1rem;
+}
+
+.container-price {
+  width: 150px;
+  height: auto;
+  margin-left: 10%;
+  font-size: 1rem;
+}
+
+.container-button-div {
+  height: auto;
+  margin-left: auto;
+  font-size: 0.9rem;
+}
+.container-button {
+  margin-left: 20px;
+}

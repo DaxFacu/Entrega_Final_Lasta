@@ -1,0 +1,11 @@
+.divBox {
+  display: flex;
+}
+
+.itemBox {
+  display: block;
+}
+
+.riBox {
+  padding-top: 4%;
+}

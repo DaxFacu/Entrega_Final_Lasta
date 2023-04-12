@@ -1,0 +1,21 @@
+.container-cart {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  color: #e1d4c7;
+}
+
+.bubble-counter {
+  width: 20px;
+  height: 20px;
+  border: 2px solid #e1d4c7;
+  border-radius: 50%;
+  position: absolute;
+  top: -20%;
+  right: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

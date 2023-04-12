@@ -1,0 +1,19 @@
+.divForm {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 5%;
+}
+
+.formForm {
+  display: inline-block;
+}
+
+.inputForm {
+  font-size: 1.4rem;
+  width: 100%;
+}
+
+.buttonForm {
+  margin-left: 33%;
+  display: none;
+}
