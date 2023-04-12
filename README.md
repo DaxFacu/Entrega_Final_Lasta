@@ -27,7 +27,7 @@ Para traerte este proyecto deberás abrir un terminal en la dirección deseada y
 git clone https://github.com/DaxFacu/Entrega_Final_Lasta.git
 ```
 
-Además deberás instalarl npm en el directorio. Para ello deberás entrar en la carpeta clonada y ejecutar.
+Además deberás instalar npm en el directorio. Para ello deberás entrar en la carpeta clonada y ejecutar.
 
 ```
 npm install
