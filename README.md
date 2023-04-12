@@ -47,6 +47,6 @@ npm run start
 
 ![](/public/gif.gif)
 
-## Link al proyecto en Vorcel:
+## Link al proyecto en Vercel:
 
-[Ir a Todo3D]("")
+[Ir a Todo3D]("https://todo-3d-entrega-final-lasta-vdzl-a7b8yfjjw-daxfacu.vercel.app/")
