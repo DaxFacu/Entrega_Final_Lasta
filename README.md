@@ -4,7 +4,7 @@
 
 ## Información sobre el proyecto
 
-### Este proyecto se trata sobre un lugar de ventas de impresores e insumos 3D.
+### Este proyecto se trata sobre una tienda de venta de impresores e insumos 3D.
 
 ---
 
